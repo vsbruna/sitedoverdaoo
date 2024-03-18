@@ -38,15 +38,15 @@ font-size: 45px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
-.loja-estado{
+.sobre-o-palmeiras-título{
     text-align: center;
    
 }
 
-.lojas-estado-img{
+.sobre-o-palmeiras-texto-um{
     width: 20px;
 }
-.lojas-estado-nome{
+.jogadores{
     font-weight: 100;
     text-decoration: underline;
     color: #FFFFFF;
