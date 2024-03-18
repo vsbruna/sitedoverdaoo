@@ -22,4 +22,45 @@ body{
     display: inline-block;
     margin: 0 16px; 
     font-size: 16px;
+} /* secao lojas*/
+.lojas{
+    background-color: #a9a9a9;
+}
+
+.lojas-titulo{
+color: #3B0050;
+text-align: center;
+padding: 50px;
+font-size: 45px;
+}
+
+.lojas-todosestados-div{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.loja-estado{
+    text-align: center;
+   
+}
+
+.lojas-estado-img{
+    width: 20px;
+}
+.lojas-estado-nome{
+    font-weight: 100;
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+.lojas-estado-nome:hover{
+    font-weight: 100;
+    text-decoration: underline;
+    color: orange;
+}
+.lojas-estado-icone{
+    width: 30px;
+    padding: 5px 0 10px 0;
+}
+.lojas-estado-icone:hover{
+    width: 35px;
+    padding: 5px 0;
 }
