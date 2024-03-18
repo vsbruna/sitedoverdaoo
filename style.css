@@ -1,6 +1,6 @@
 *{ 
-    margin: 10; 
-    padding: 10;
+    margin: 0; 
+    padding: 0;
 }
 body{
     font-family:'Poppins', sans-serif;
@@ -50,17 +50,4 @@ font-size: 45px;
     font-weight: 50;
     text-decoration: underline;
     color: #FFFFFF;
-}
-.piquerez{
-    font-weight: 100;
-    text-decoration: underline;
-    color: orange;
-}
-.lojas-estado-icone{
-    width: 30px;
-    padding: 5px 0 10px 0;
-}
-.lojas-estado-icone:hover{
-    width: 35px;
-    padding: 5px 0;
 }
