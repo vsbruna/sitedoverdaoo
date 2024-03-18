@@ -27,14 +27,14 @@ body{
     background-color: #a9a9a9;
 }
 
-.lojas-titulo{
+.sobrepalmeiras{
 color: #3B0050;
 text-align: center;
 padding: 50px;
 font-size: 45px;
 }
 
-.lojas-todosestados-div{
+.sobre-o-palmeiras-conteúdo{
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
