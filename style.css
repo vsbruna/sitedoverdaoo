@@ -47,11 +47,11 @@ font-size: 45px;
     width: 250px;
 }
 .jogadores{
-    font-weight: 100;
+    font-weight: 50;
     text-decoration: underline;
     color: #FFFFFF;
 }
-.lojas-estado-nome:hover{
+.piquerez{
     font-weight: 100;
     text-decoration: underline;
     color: orange;
