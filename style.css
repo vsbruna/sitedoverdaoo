@@ -37,16 +37,12 @@ padding: 50px;
 font-size: 25px;
 }
 
-.sobre-o-palmeiras{
+.sobre-o-palmeiras-conteúdo{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.sobre-o-palmeiras-conteúdo{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-}
 .sobre-o-palmeiras-título{
     text-align: center;
    
