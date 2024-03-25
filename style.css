@@ -47,7 +47,10 @@ font-size: 45px;
     width: 250px;
 }
 .jogadores{
-    font-weight: 50;
+    font-size: 20px;
     text-decoration: underline;
+    display: grid;
+    grid-template-columns: 33% 33% 33% ;
+
     
 }
