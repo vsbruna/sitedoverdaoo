@@ -15,7 +15,7 @@ body{
 }
 
 .cabecalho-imagem{
-    width: 30.px;%;
+    width: 30.px;
 }
 
 .cabecalho-lista-item{
@@ -49,5 +49,5 @@ font-size: 45px;
 .jogadores{
     font-weight: 50;
     text-decoration: underline;
-    color: #FFFFFF;
+    
 }
