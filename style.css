@@ -15,23 +15,30 @@ body{
 }
 
 .cabecalho-imagem{
-    width: 30.px;
+    width: 30px;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px; 
-    font-size: 16px;
+    font-size: 30px;
 } /* secao lojas*/
 .lojas{
     background-color: #a9a9a9;
 }
 
+.img-principal{
+    width: 200px;
+}
 .sobrepalmeiras{
 color: #3B0050;
 text-align: center;
 padding: 50px;
 font-size: 45px;
+}
+
+.sobre-o-palmeiras{
+    display: flex;
 }
 
 .sobre-o-palmeiras-conteúdo{
