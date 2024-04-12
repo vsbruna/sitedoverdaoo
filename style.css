@@ -74,5 +74,19 @@ display: flex;
 }
 
 .rodape{
-    width: 500px;
+    background-color: #0c410f;
+    text-align: center;
+    padding: 50px;
+border-top: 2px solid #ffff00b2;
+}
+
+.rodape-titulo{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffff00b2;
+    padding: 10px 0;
+}
+
+.rodape-imagem{
+    width: 700px;
 }
