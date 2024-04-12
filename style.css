@@ -72,3 +72,7 @@ display: flex;
     padding: 50px;
     font-size: 45px;
 }
+
+.rodape{
+    width: 500px;
+}
