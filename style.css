@@ -65,3 +65,10 @@ display: flex;
 .imagem-jogadores{ 
     width: 155px;
 }
+
+.jogadores-titulo{
+    color: #0c410f;
+    text-align: center;
+    padding: 50px;
+    font-size: 45px;
+}
